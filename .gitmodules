@@ -1,0 +1,18 @@
+[submodule "solid.web"]
+	path = solid.web
+	url = git@github.com:solid-studio/solid.web.git
+	branch = master
+[submodule "solid.docs"]
+	path = solid.docs
+	url = git@github.com:solid-studio/solid.docs.git
+	branch = master
+[submodule "solid.server"]
+	path = solid.server
+	url = git@github.com:solid-studio/solid.server.git
+	branch = master
+[submodule "solid.monorepo"]
+	path = solid.monorepo
+	url = git@github.com:solid-studio/solid.monorepo.git
+[submodule "solid.desktop"]
+	path = solid.desktop
+	url = git@github.com:solid-studio/solid.desktop.git
